@@ -33,7 +33,7 @@ git branch -M main
 echo.
 
 echo [5/6] Nhap GitHub repository URL:
-echo Vi du: https://github.com/your_username/sunlon-key-system.git
+echo Vi du: https://github.com/Phong3621/keysunnn.git
 set /p REPO_URL="Repository URL: "
 
 echo [6/6] Push len GitHub...
